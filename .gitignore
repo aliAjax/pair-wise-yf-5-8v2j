@@ -36,3 +36,6 @@ coverage/
 .vscode/
 __pycache__/
 *.py[cod]
+
+# 运行时数据（预约/排队账，启动时自动创建）
+data/
